@@ -1,0 +1,20 @@
+{
+  "name": "webtest",
+  "description": "0.1.0",
+  "main": "前端测试项目",
+  "keywords": [
+    "node",
+    "npm",
+    "git"
+  ],
+  "authors": [
+    "han"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "angularjs#^1.6.4",
+    "bootstrap": "^3.3.7"
+  }
+}

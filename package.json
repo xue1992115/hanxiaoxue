@@ -1,0 +1,20 @@
+{
+  "name": "webtest",
+  "version": "1.0.0",
+  "description": "前端测试项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "git",
+    "npm"
+  ],
+  "author": "han",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.12",
+    "gulp": "^3.9.1"
+  }
+}
